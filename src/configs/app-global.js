@@ -9,7 +9,7 @@ export const example = BASE_URL + '/';
 export const defaultCenter = { lat: 40.7127281, lng: -74.0060152 };
 
 export const VAPID_KEY =
-  'BPF2UBmQ7aS14ryUSFFG0PNNYBaLlCvmsd2RHG6ndaHE6aL-_blBxQoK0KAohAS8tkbbdV_6R5RPmUWkJCVZXCM';
+  'BH-E9hIWHkuF59tOCEfeGKHnMTgLmsI3N3Bn2tvdiJuuF-Hx2mMK9lyzPluXdoKol6hZ2Fe9ITzg5p4U8pfGTCI';
 export const API_KEY = 'AIzaSyASPzFJ1nz8PAlKpda3PueDGAkzsxefUrs';
 export const AUTH_DOMAIN = 'goshop-70695.firebaseapp.com';
 export const PROJECT_ID = 'goshop-70695';
