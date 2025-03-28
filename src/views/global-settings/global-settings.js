@@ -10,7 +10,7 @@ import ProjectAccessInfo from './project-access-info';
 const { Step } = Steps;
 
 export default function GlobalSettings() {
-  const [current, setCurrent] = useState(0);
+  const [current, setCurrent] = useState(1);
   const next = () => setCurrent(current + 1);
 
   return (
