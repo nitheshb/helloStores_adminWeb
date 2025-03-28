@@ -1,9 +1,10 @@
 export const PROJECT_NAME = 'Foodyman marketplace';
-export const BASE_URL = 'https://single-api.foodyman.org';
+// export const BASE_URL = 'https://single-api.foodyman.org';
+export const BASE_URL = 'http://api.hellostores.in';
 export const api_url = BASE_URL + '/api/v1/';
 export const api_url_admin_dashboard = BASE_URL + '/api/v1/dashboard/';
-export const IMG_URL = '';
-export const MAP_API_KEY = 'AIzaSyDfe-B3bRqFV6yNU3t7rhMR4Nsm_kzsaf4';
+export const IMG_URL = 'http://api.hellostores.in/storage/';
+export const MAP_API_KEY = 'AIzaSyD7uO6L6we2bXx8zJgdUgXxHcKqwFvW-hE';
 export const export_url = BASE_URL + '/storage/';
 export const example = BASE_URL + '/';
 export const defaultCenter = { lat: 40.7127281, lng: -74.0060152 };
